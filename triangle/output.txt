@@ -1,0 +1,20 @@
+Input triangle edges:3,4,5
+Triangle(3,4,5) -- scalene
+Input triangle edges:3,4,5,6
+Triangle(3,4,5) -- scalene
+Input triangle edges:3,4,9
+Error:Invalid Triangle Edges !
+Input triangle edges:3,3,5
+Triangle(3,3,5) -- isosceles
+Input triangle edges:3,3,3
+Triangle(3,3,3) -- equilateral
+Input triangle edges:3,d,3,-1,3
+Triangle(3,3,3) -- equilateral
+Input triangle edges:0,0,0
+Error:Some edge data is missed !
+Input triangle edges:5
+Error:Some edge data is missed !
+Input triangle edges:4,5
+Error:Some edge data is missed !
+Input triangle edges:
+done
